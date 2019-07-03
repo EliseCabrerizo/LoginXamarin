@@ -1,0 +1,13 @@
+<?xml version ="1.0" encoding="utf-8"?>
+<config>
+  <LinkedinIdAuth>
+
+    <clientIdL>779d1jbf1ktdw7</clientIdL>
+    <clientSecretL>bag9wYLK9IlfQwYR</clientSecretL>
+    <redirectUrlL>https://www.linkedin.com/in/camille-morand-b2017110b/</redirectUrlL>
+  </LinkedinIdAuth>
+  <FacebookIdAuth>
+    <clientIdF>461239834641156</clientIdF>
+    <redirectUrlF>https://www.facebook.com/connect/login_success.html</redirectUrlF>
+  </FacebookIdAuth>
+</config>

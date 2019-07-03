@@ -1,0 +1,15 @@
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\bin\Debug\netstandard1.6\LoginLinkedIn.deps.json
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\bin\Debug\netstandard1.6\LoginLinkedIn.dll
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\App.xaml.g.cs
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\HomePage.xaml.g.cs
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\ProviderLoginPage.xaml.g.cs
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\StartPage.xaml.g.cs
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\LoginLinkedIn.csproj.CoreCompileInputs.cache
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\LoginLinkedIn.AssemblyInfoInputs.cache
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\LoginLinkedIn.AssemblyInfo.cs
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\bin\Debug\netstandard1.6\ref\LoginLinkedIn.dll
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\bin\Debug\netstandard1.6\LoginLinkedIn.pdb
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\XamlC.stamp
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\LoginLinkedIn.dll
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\ref\LoginLinkedIn.dll
+C:\Users\elise.cabrerizo\source\repos\LoginLinkedIn\LoginLinkedIn\LoginLinkedIn\obj\Debug\netstandard1.6\LoginLinkedIn.pdb

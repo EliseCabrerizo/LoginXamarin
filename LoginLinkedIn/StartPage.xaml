@@ -1,0 +1,56 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:d="http://xamarin.com/schemas/2014/forms/design"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+             mc:Ignorable="d"
+             x:Class="LoginLinkedIn.StartPage">
+
+    <ContentPage.Content>
+        <StackLayout BackgroundColor="White">
+            <Grid BackgroundColor="White">
+                <Grid.RowDefinitions>
+                    <RowDefinition Height="120"/>
+                    <RowDefinition Height="*"/>
+                </Grid.RowDefinitions>
+                <Image Source="ChangeNow.png"
+                       Margin="15,0,0,1"
+                       VerticalOptions="EndAndExpand"
+                       HorizontalOptions="StartAndExpand"
+                />
+                <Grid Grid.Row="1" Margin="20,0,20,0" VerticalOptions="Center">
+                    <Grid.RowDefinitions>
+                        <RowDefinition Height="200"/>
+                        <RowDefinition Height="50" />
+                        <RowDefinition Height="50"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="40"/>
+                        <RowDefinition Height="Auto"/>
+                        <RowDefinition Height="*"/>
+                    </Grid.RowDefinitions>
+                </Grid>
+                <Button Grid.Row="5"
+                        Text="Login with Facebook"
+                        FontSize="15"
+                        BackgroundColor="#0077B5"
+                        TextColor="White"
+                        HorizontalOptions="Center"
+                        WidthRequest="310"
+                        Clicked="Facebook"/>
+
+                <Button Grid.Row="6"
+                        Text="Login with Linkedin"
+                        FontSize="15"
+                        BackgroundColor="#DB4437"
+                        TextColor="White"
+                        HorizontalOptions="Center"
+                        WidthRequest="310"
+                        Clicked="Linkedin"/>
+
+
+            </Grid>
+        </StackLayout>
+    </ContentPage.Content>
+
+</ContentPage>
